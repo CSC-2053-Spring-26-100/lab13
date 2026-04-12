@@ -4,4 +4,4 @@
 
 **CSC 2053 — Spring 2026**
 
-Building a signal strength regression model with real FCC radio data.
+Building a signal strength regression model with RadioLand sample data.
